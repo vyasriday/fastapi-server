@@ -1,0 +1,10 @@
+
+{ 
+  "editor.tabSize": 4,
+  "editor.defaultFormatter": "ms-python.autopep8",
+  "autopep8.args": [
+    "--indent-size=4"
+  ]
+}
+
+  
